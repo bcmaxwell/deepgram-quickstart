@@ -1,0 +1,10 @@
+.env
+.idea
+response.json
+*.mp3
+*.wav
+.venv/
+__pycache__/
+
+# created by virtualenv automatically
+
